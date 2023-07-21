@@ -2,7 +2,7 @@
 
 Pillow Plant Particles 
 
-[Wikipedia]([URL](https://ja.wikipedia.org/wiki/%E6%9E%95%E8%8D%89%E5%AD%90) "タイトル")
+[Wikipedia](https://ja.wikipedia.org/wiki/%E6%9E%95%E8%8D%89%E5%AD%90)
 
 
 ## 春
